@@ -1,0 +1,63 @@
+const productos = [{"code":"05","name":"Bebidas"},
+    {"code":"08","name":"Granos"},
+    {"code":"11","name":"Frutas y Verduras"},
+    {"code":"13","name":"Golosinas"}]
+    
+    
+
+
+    const towns = [{"code":"05001","producto":"05","name":"Coca-Cola"},
+    {"code":"05002","producto":"05","name":"Pepsi"},
+    {"code":"05003","producto":"05","name":"Manzana"},
+    {"code":"05004","producto":"05","name":"Sprite"},
+    {"code":"05005","producto":"05","name":"J.Hit.Mora"},
+    {"code":"05006","producto":"05","name":"J.Hit.Naranja"},
+    {"code":"05007","producto":"05","name":"J.Hit.Lulo"},
+    {"code":"05008","producto":"05","name":"J.Hit.Tropical"},
+    {"code":"05009","producto":"05","name":"Hipinto"},
+    {"code":"05010","producto":"05","name":"Colombiana"},
+    {"code":"05011","producto":"05","name":"Ginger"},
+    {"code":"05012","producto":"05","name":"Agua"},
+    {"code":"08001","producto":"08","name":"Frijol"},
+    {"code":"08001","producto":"08","name":"Garbanzo"},
+    {"code":"08001","producto":"08","name":"Lenteja"},
+    {"code":"08001","producto":"08","name":"Arveja.V"},
+    {"code":"08001","producto":"08","name":"Arveja.A"},
+    {"code":"08001","producto":"08","name":"Fideos"},
+    {"code":"08001","producto":"08","name":"Conchas"},
+    {"code":"08001","producto":"08","name":"Tornillos"},
+    {"code":"11001","producto":"11","name":"Banano*12"},
+    {"code":"11002","producto":"11","name":"Manzana*12"},
+    {"code":"11003","producto":"11","name":"Pera*12"},
+    {"code":"11004","producto":"11","name":"Naranja*12"},
+    {"code":"11005","producto":"11","name":"Mandarina*12"},
+    {"code":"11006","producto":"11","name":"Melon*3"},
+    {"code":"11007","producto":"11","name":"Cebolla*12"},
+    {"code":"11008","producto":"11","name":"C.Cabezona*12"},
+    {"code":"11009","producto":"11","name":"Lechuga*5"},
+    {"code":"11010","producto":"11","name":"Tomate*12"},
+    {"code":"11011","producto":"11","name":"Pimenton*6"},
+    {"code":"11012","producto":"11","name":"Pepino*6"},
+    {"code":"11013","producto":"11","name":"Cilantro"},
+    {"code":"11014","producto":"11","name":"Limon*10"},
+    {"code":"11015","producto":"11","name":"Espinaca"},
+    {"code":"13001","producto":"13","name":"Papas-limon"},
+    {"code":"13002","producto":"13","name":"Papas-pollo"},
+    {"code":"13003","producto":"13","name":"Papas-Bq"},
+    {"code":"13004","producto":"13","name":"Papas-natural"},
+    {"code":"13005","producto":"13","name":"Chocorramo"},
+    {"code":"13006","producto":"13","name":"Gala"},
+    {"code":"13007","producto":"13","name":"Ramo"},
+    {"code":"13008","producto":"13","name":"Chocolatina-jet"},
+    {"code":"13009","producto":"13","name":"Chocolatina-jumbo"},
+    {"code":"13010","producto":"13","name":"Chcicharrones"},
+    {"code":"13011","producto":"13","name":"Shitos-Bq"},
+    {"code":"13012","producto":"13","name":"Shitos-Natural"},
+    {"code":"13013","producto":"13","name":"Choclitos"},
+    {"code":"13014","producto":"13","name":"Gallets-limon"},
+    {"code":"13015","producto":"13","name":"Mani"}];
+
+    module.exports.productos = productos;
+    module.exports.towns = towns;
+
+
